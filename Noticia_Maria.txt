@@ -1,0 +1,23 @@
+María del Carmen Chávez Patiño
+
+Noticia :Encuentran una forma de hackear y robar los Tesla
+
+Tesla siempre ha presumido de que sus automóviles están fabricados a prueba de robos. Si alguien entra en ellos, los legítimos propietarios pueden bloquearlos a distancia; si alguien los araña o golpea, la función Centinela grabará la escena y la enviará al smartphone del propietario. Sin embargo, un grupo de hackers asegura haber encontrado la forma de lograr lo imposible: robar un Tesla.
+
+Tal y como informa AutoBlog, los investigadores de seguridad Tommy Mysk y Talal Haj Bakry han echado leña al fuego del ataque del Gobierno de Canadá al gadget multiherramienta Flipper Zero con un vídeo que demuestra que, efectivamente, puede utilizarse para robar un auto Tesla Model 3, aunque en un ataque que también funcionaría utilizando cualquier otro dispositivo con Wi-Fi capaz de alojar una página web y actuar como punto de acceso inalámbrico.
+
+"Los ataques de phishing e ingeniería social no son infrecuentes. Sin embargo, un atacante que consigue hacerse con credenciales filtradas o robadas no debería tenerlo todo", escriben Mysk y Bakry. "[Nuestra investigación] muestra que Tesla no protege a sus usuarios, o vehículos, contra credenciales robadas. Desafortunadamente, un atacante que de alguna manera consigue las credenciales de la cuenta Tesla de un vehículo puede tomar el control del auto y salir conduciendo con él".
+Como muchos vehículos modernos, los Tesla están diseñados en torno a un sistema de acceso y arranque sin llave: aunque cada vehículo se suministra con llaves similares a las de una tarjeta, una vez comprado se anima al propietario a registrar su teléfono en su lugar, lo que permite desbloquear y arrancar el vehículo sin tener que llevar nada más. El problema viene, explican Mysk y Bakry, cuando se filtran tus credenciales para la aplicación de Tesla.
+
+"El principal problema del diseño es que Tesla sólo requiere el correo electrónico y la contraseña de una cuenta, así como estar físicamente cerca del vehículo Tesla para activar una llave de teléfono", escriben la pareja. "Con una clave de teléfono activada, un usuario, o un atacante, tiene el control total del vehículo. El flujo no requiere que el usuario esté dentro del vehículo o que utilice otro factor físico para la autenticación, como una llave de tarjeta Tesla o escanear un código QR que muestre la pantalla táctil del Tesla".
+
+Sin embargo, sí requiere que el atacante conozca el nombre de usuario y la contraseña de la aplicación de Tesla, que es donde entra en juego Flipper Zero. Flipper Zero es un dispositivo portátil multifuncional similar a un Tamagotchi que ha sido desarrollado para interactuar con sistemas de control de acceso. El dispositivo es capaz de leer, copiar y emular chips NFC como los de los smartphones, mandos a distancia por radio, iButton y llaves de acceso digitales.
+
+Utilizando una tarjeta Wi-Fi opcional, los investigadores muestran cómo se puede utilizar el Flipper Zero para difundir un punto de acceso inalámbrico malicioso y enviar a los usuarios a una página de inicio de sesión de Tesla falsificada. Cuando se introducen las credenciales, se muestran en la pantalla del Flipper Zero y se utilizan para solicitar un código de un solo uso, tras lo cual el atacante puede configurar su propio teléfono como una llave Tesla sin más interacción de la víctima.
+
+La demostración del ataque, que según Mysk y Bakry ha sido descartada como "comportamiento intencionado" por Tesla, se produce después de que el Gobierno de Canadá anunciara planes para prohibir el Flipper Zero y dispositivos similares con el fin de frenar una oleada de robos de vehículos en todo el país, ninguno de los cuales, según señaló Flipper Devices en su momento, se sabe que ha implicado a un Flipper Zero. Aunque este ataque sí lo hace, no utiliza nada específico de las capacidades del Flipper Zero: cualquier dispositivo que pueda emitir un punto de acceso Wi-Fi y alojar una página web sería capaz de llevar a cabo el mismo ataque.
+
+El ataque completo se muestra en el vídeo incrustado más arriba y en el canal de YouTube de Mysk; Tesla no ha comentado públicamente la aparente vulnerabilidad de sus vehículos.
+
+
+Fuente:https://es-us.finanzas.yahoo.com/noticias/encuentran-un-forma-de-hackear-y-robar-los-tesla-160459432.html
