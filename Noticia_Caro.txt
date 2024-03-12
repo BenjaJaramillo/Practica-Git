@@ -1,0 +1,8 @@
+Cuatro nuevos robots 'Made in Euskadi' para el sector de la medicina.
+Entre las novedades se encuentra un sistema de bioimpresion 3D que se podrá llegar a utilizar en implantes de cartílago. Es un robot que está en fase de laboratorio y podrá ser una realidad en una década.
+Otro robot teleoperador permite la precisión quirúrgica. El cirugamo podría dirigirlo sin soltar las manos en una operación
+Un tercero ayudaría a la rehabilitación de pacientes de ictus. Podrían mover el brazo por medio de señales neurológicas.
+Son ejemplos de la robótica médica más avanzada que trabaja Tecnalia.
+El reto está en hacer un desarrollo para que los robots puedan adaptarse a las necesidades de cada empresa o usuario. Algunos de ellos pueden tener su aplicación más allá del sector sanitario. En concreto, en el sector industrial.
+
+Carolina Martínez Espinosa de los Monteros
