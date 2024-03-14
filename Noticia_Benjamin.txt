@@ -1,5 +1,5 @@
 Noticia relevante 
-Benjamin Jaramillo 
+Benjamin Jaramillo Nava
 
 Una noticia tecnológica reciente que podría considerarse una aportación útil en el mundo de las Tecnologías de la Información es la demanda de Elon Musk a OpenAI y a Sam Altman1. Musk alega que OpenAI, la compañía detrás de ChatGPT, se ha desviado de su misión original sin fines de lucro al asociarse con Microsoft por US$ 13 mil millones y por mantener en secreto el código de sus nuevos productos de inteligencia artificial generativa1.
 Esta noticia es relevante porque pone de manifiesto la importancia de la transparencia y la ética en el desarrollo y la implementación de la inteligencia artificial. La demanda de Musk podría tener implicaciones significativas para el futuro de la IA, especialmente en términos de cómo se desarrollan, se utilizan y se regulan estas tecnologías. Además, podría influir en la forma en que las empresas y las organizaciones abordan la colaboración y la competencia en el campo de la IA1.
